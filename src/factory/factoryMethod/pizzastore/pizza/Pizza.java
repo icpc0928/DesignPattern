@@ -1,4 +1,4 @@
-package factory.methodfactory.pizzastore.pizza;
+package factory.factoryMethod.pizzastore.pizza;
 
 //將Pizza類做成抽象類
 public abstract class Pizza {

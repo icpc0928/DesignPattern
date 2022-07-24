@@ -1,6 +1,9 @@
-package factory.methodfactory.pizzastore.order;
+package factory.factoryMethod.pizzastore.order;
 
 
+import factory.factoryMethod.pizzastore.pizza.LDCheesePizza;
+import factory.factoryMethod.pizzastore.pizza.LDPepperPizza;
+import factory.factoryMethod.pizzastore.pizza.Pizza;
 import factory.methodfactory.pizzastore.pizza.*;
 
 public class LDOrderPizza extends OrderPizza{

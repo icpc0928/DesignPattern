@@ -1,6 +1,6 @@
-package factory.methodfactory.pizzastore.order;
+package factory.factoryMethod.pizzastore.order;
 
-import factory.methodfactory.pizzastore.pizza.Pizza;
+import factory.factoryMethod.pizzastore.pizza.Pizza;
 
 import java.io.BufferedReader;
 import java.io.IOException;

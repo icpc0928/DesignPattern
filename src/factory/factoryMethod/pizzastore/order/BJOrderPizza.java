@@ -1,9 +1,9 @@
-package factory.methodfactory.pizzastore.order;
+package factory.factoryMethod.pizzastore.order;
 
 
-import factory.methodfactory.pizzastore.pizza.BJCheesePizza;
-import factory.methodfactory.pizzastore.pizza.BJPepperPizza;
-import factory.methodfactory.pizzastore.pizza.Pizza;
+import factory.factoryMethod.pizzastore.pizza.BJCheesePizza;
+import factory.factoryMethod.pizzastore.pizza.BJPepperPizza;
+import factory.factoryMethod.pizzastore.pizza.Pizza;
 
 public class BJOrderPizza extends OrderPizza{
 
